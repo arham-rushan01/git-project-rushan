@@ -7,3 +7,7 @@ I am student at ugsot,currently learing Git and Github
 - communication
 - problem solving
 - basic git
+
+## projects
+- github1: first projectory
+- github2: second projectory
