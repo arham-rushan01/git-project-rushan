@@ -2,3 +2,8 @@
 
 ## about me
 I am student at ugsot,currently learing Git and Github
+
+## Skills
+- communication
+- problem solving
+- basic git
